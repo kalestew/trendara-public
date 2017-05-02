@@ -2,8 +2,8 @@
 layout: article-special
 title: "About Trendara"
 categories: services
-date: 2017-03-15T23:18:10-08:00
-modified: 2017-03-15T23:18:10-08:00
+date: 2017-03-15T11:18:10-08:00
+modified: 2017-03-15T11:18:10-08:00
 excerpt: "Meet our management and learn about the history of our firm."
 tags: [trendara, rowe morehouse]
 ads: false
@@ -16,7 +16,7 @@ image:
   thumb: rowe-morehouse.jpg
 ---
 
-<h6 class="strapline">Trendara is a digital agency and marketing automation systems integrator.</h6>
+<h6 class="strapline">Trendara is a digital agency and marketing automation systems integrator.</h6> 
 
   <p class="body">Incorporated in 2004, Trendara LLC helps companies increase revenue by improving sales and marketing processes and tactics. Our service offering is twofold:</p>
 
