@@ -2,8 +2,8 @@
 layout: article-special
 title: "About Trendara"
 categories: services
-date: 2015-12-29T23:18:10-08:00
-modified: 2015-12-29T23:18:10-08:00
+date: 2017-03-15T23:18:10-08:00
+modified: 2017-03-15T23:18:10-08:00
 excerpt: "Meet our management and learn about the history of our firm."
 tags: [trendara, rowe morehouse]
 ads: false
